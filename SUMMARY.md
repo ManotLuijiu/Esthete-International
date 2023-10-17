@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ความเป็นมา](README.md)
+* [ความเป็นมา (Our stories)](README.md)
